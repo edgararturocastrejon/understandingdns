@@ -11,7 +11,7 @@ I am logged in as Jane Doe (an admin account) on both the client and domain cont
 
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Microsoft Remote Desktop
 - Active Directory Domain Services
 - Command Prompt
 
