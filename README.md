@@ -4,8 +4,8 @@
 </p>
 <h1>Understanding DNS</h1>
 This lab focuses on DNS and how it is used. DNS is a fundamental concept in IT and many sources go over the theory behind it.
-I will be configuring DNS records and seeing how it works in practice. This is building up from a previous lab where I have a client joined to my domain ernestotest.com.
-I am logged in as Jane Doe (an admin account) on both the client and domain controller VMs. In order for the lab to work, you need to be logged in as an administrator.
+I will be configuring DNS records and seeing how it works in practice. This is building up from a previous lab where I have a client joined to my domain mydomain.com.
+I am logged in as Edgar Castrejon (an admin account) on both the client and domain controller VMs. For the lab to work, you need to be logged in as an administrator.
 
 <h2>Environments and Technologies Used</h2>
 
